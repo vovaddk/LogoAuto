@@ -78,6 +78,7 @@
 
   #nav-btn.active span {
     height: 0px;
+    padding-bottom: 5px;
   }
 
   #nav-btn.active span::before {
