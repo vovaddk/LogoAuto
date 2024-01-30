@@ -55,7 +55,7 @@ button:hover {
 }
 
 .card {
-  width: 270px;
+  max-width: 270px;
   min-width: 225px;
   height: 283px;
   background-color: #ffffff;

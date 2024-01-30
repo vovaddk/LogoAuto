@@ -193,8 +193,7 @@
   }
 
   .reviews-text-p {
-    line-height: 22px;
-    font-size: 19px;
+    width: 328px;
   }
 
   #footer-menu {
@@ -291,8 +290,12 @@
   }
 
   #footer-menu li {
-    font-size: 20px;
-    line-height: 30px;
+    color: #fff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
   }
 }
 
